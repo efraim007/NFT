@@ -3,21 +3,21 @@
         {
             "id": 0,
             "description": "Vizslainu NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "external_url": "https://vzslainu.com",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
             "name": "Vizslainu NFT 0"
         },
         {
             "id": 1,
             "description": "Vizslainu NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "external_url": "https://vzslainu.com",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
             "name": "Vizslainu NFT 1"
         },
         {
             "id": 2,
             "description": "Vizslainu NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "external_url": "https://vzslainu.com",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
             "name": "Vizslainu NFT 2"
         }
